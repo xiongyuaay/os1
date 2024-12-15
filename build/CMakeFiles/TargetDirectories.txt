@@ -1,0 +1,3 @@
+/home/xiong/Downloads/操作系统/实验一code/build/CMakeFiles/spinlock.dir
+/home/xiong/Downloads/操作系统/实验一code/build/CMakeFiles/edit_cache.dir
+/home/xiong/Downloads/操作系统/实验一code/build/CMakeFiles/rebuild_cache.dir

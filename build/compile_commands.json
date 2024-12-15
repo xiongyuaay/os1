@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xiong/Downloads/操作系统/实验一code/build",
+  "command": "/usr/bin/gcc    -o CMakeFiles/spinlock.dir/spinlock.c.o -c /home/xiong/Downloads/操作系统/实验一code/spinlock.c",
+  "file": "/home/xiong/Downloads/操作系统/实验一code/spinlock.c",
+  "output": "CMakeFiles/spinlock.dir/spinlock.c.o"
+}
+]

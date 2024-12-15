@@ -1,0 +1,1 @@
+/usr/bin/gcc CMakeFiles/spinlock.dir/spinlock.c.o -o spinlock
